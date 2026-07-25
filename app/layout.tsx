@@ -222,7 +222,7 @@ export default function RootLayout({
         <WhatsAppButton />
 
 
-        {/* <Chatbot /> */}
+        <Chatbot />
 
 
         <FloatingOfferButton />
